@@ -1,0 +1,22 @@
+import 'package:flutter/material.dart';
+
+const primaryRed = Color(0xFFd11520);
+const secondaryRed = Color(0xFFb7000a);
+const background = Color(0xFFf7f9fb);
+const activeButton = Color(0xFFf12329);
+const yellowRating = Color(0xFFffb100);
+const font = Color(0xFF484848);
+const disabledFont = Color(0xFF959595);
+const discountLabel = Color(0xFF1ab98e);
+const white = Color(0xFFFFFFFF);
+const darkRed = Color(0xFFb7000a);
+const transparent = Color(0x00000000);
+const favoriteIconNotselected = Color(0xFFc2c3c0);
+const black = Color(0xFF000000);
+const firstPartBackgroundColor = Color(0xFFf0f0f0);
+const secondPartBackgroundColor = Color(0xFFf7f9fb);
+const seeAll = Color(0xFFa2a2a2);
+const backgroundSeeAll = Color(0xFFf6fafb);
+final firstGradient = Colors.grey.shade300;
+final secondGradient = Colors.grey.shade100;
+const border = Color(0xFFe2e3e3);
