@@ -3,6 +3,10 @@
 ## Descrição do Projeto
 Este projeto foi desenvolvido como parte de um processo seletivo para a vaga de Desenvolvedor Flutter Sênior na empresa **Guia de Motéis**.
 Para realização do projeto utilizei um quadro no Notion para organização de demandas: [Quadro Notion](https://fanatical-telephone-676.notion.site/cba54cd18a0447aaaa8395b0897d4c5f?v=23cd867f09ee4f85813ea0187b31d7e6)
+
+## Vídeo Apresentação
+<video src="https://github.com/Hugerds/guiago/blob/main/screenshots/guia_go_hugerds.mp4" width="300" />
+
 ### Desafio
 O objetivo do desafio foi criar uma réplica da tela de listagem de motéis (aba "Ir Agora") do aplicativo **Guia de Motéis GO**, utilizando os dados provenientes de APIs mock fornecidas. O desafio envolveu o uso de **Flutter** e **Dart**, com foco no gerenciamento de estado, consumo de API e implementação de testes unitários.
 
